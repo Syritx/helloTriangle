@@ -1,2 +1,2 @@
 # helloTriangle
-a hello triangle rendered in LWJGL
+a hello triangle rendered in LWJGL. so a render engine
